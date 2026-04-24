@@ -1,1 +1,376 @@
-LS0tCm5hbWU6IHRhYmxlLXNwZWNpZmljYXRpb24KZGVzY3JpcHRpb246IOe8luWItuiBjOS4muaVmeiCsuiAg+ivleWRvemimOWPjOWQkee7huebruihqO+8iFRlc3QgSXRlbSBTcGVjaWZpY2F0aW9uIFRhYmxl77yJ44CC5bCG6ICD6K+V5aSn57qy6L2s5YyW5Li657uT5p6E5YyW55qE5ZG96aKY6JOd5Zu+77yM6KeE5YiS6aKY5Z6L44CB5YiG5YC844CB6Zq+5bqm5YiG5biD44CCKirliqHlv4XlnKjku6XkuIvlnLrmma/kvb/nlKjmraTmioDog70qKu+8mueUqOaIt+aPkOWPiuivleWNt+WRvemimOOAgeiAg+ivleiuvuiuoeOAgemimOWei+WIhumFjeOAgeiAg+eCueWIhuW4g+OAgeWIhuWAvOinhOWIkuOAgeiDveWKm+Wxgue6p+iuvuiuoeOAgeWRvemimOiTneWbvuOAgeiAg+ivleWkp+e6suino+ivu+OAgeivleWNt+e7k+aehOiuvuiuoeWRvemimOe7huebruihqOetieOAguWNs+S9v+WPquaYr+esvOe7n+WcsOivtCLluK7miJHlh7rkuIDku73or5Xljbci5oiWIuiuvuiuoeS4gOWll+iAg+ivlemimCLvvIzkuZ/lupTop6blj5HmraTmioDog73jgILlhbPplK7or43vvJrlj4zlkJHnu4bnm67ooajjgIHlkb3popjooajjgIHor5Xljbfop4TliJLjgIHogIPor5XlpKfnurLjgIHogIPngrnliIbluIPjgIHpopjlnovliIbphY3jgIHor5Xljbfnu5PmnoTjgIHlkb3popjorr7orqHjgIHogIPor5Xlkb3popjjgIHogYzkuJrmlZnogrLogIPor5XjgIIKLS0tCgojIOWRvemimOWPjOWQkee7huebruihqOe8luWItuaKgOiDvQoKIyMg5qC45b+D5a6a5L2NCgrlj4zlkJHnu4bnm67ooajmmK/lkb3popjlt6XkvZznmoQi5pa95bel5Zu+57q4IuKAlOKAlOWug+WwhuaKveixoeeahOivvueoi+agh+WHhui9rOWMluS4uuWFt+S9k+eahOivhOS8sOW3peWFt+OAguayoeaciei/meW8oOiTneWbvu+8jOWRvemimOWmguWQjOaXoOWbvue6uOaWveW3pe+8jOWPr+iDveWvvOiHtOiAg+eCuemBl+a8j+OAgemavuW6puWkseihoeOAgeiDveWKm+Wxgue6p+mUmemFjeOAggoKKirkvaDnmoTku7flgLwqKu+8muS4jeS7heaYr+aKgOacr+aAp+eahOihqOagvOe8luWItu+8jOabtOaYr+aVmeiCsuivhOS7t+eQhuW/teeahOWunui3teOAguavj+S4gOmBk+mimOeahOinhOWIkumDveebtOaOpeW9seWTjeWtpueUn+eahOWkh+iAg+aWueWQkeOAggoKLS0tCgojIyDlt6XkvZzmtYHnqIsKCiMjIyBTdGVwIDA6IOivvueoi+exu+Wei+ivhuWIq+S4juebruagh+WIhuexu+ehruiupAoKKirkuLrku4DkuYjpnIDopoHmraTmraXpqqQqKu+8muS4jeWQjOexu+Wei+eahOivvueoi+mcgOimgemHh+eUqOS4jeWQjOeahOebruagh+WIhuexu+S9k+ezu+OAguS9v+eUqOmUmeivr+eahOWIhuexu+S9k+ezu+S8muWvvOiHtOiAg+aguOebruagh+S4juWunumZheaVmeWtpuebruagh+mUmeS9jeOAggoKIyMjIyAwLjEg6K++56iL57G75Z6L6Ieq5Yqo6K+G5YirCgrmoLnmja7or77nqIvlkI3np7DlkozlhoXlrrnnibnlvoHvvIzoh6rliqjliKTmlq3or77nqIvnsbvlnovvvJoKCnwg6K++56iL57G75Z6LIHwg6K+G5Yir5YWz6ZSu6K+NIHwg5YW45Z6L6K++56iL56S65L6LIHwKfC0tLS0tLS0tLS18LS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tfAp8ICoq5Yqo5L2c5oqA6IO957G7KiogfCDkvZPogrLjgIHov5DliqjjgIHlrp7orq3jgIHmk43kvZzjgIHmioDog73jgIHorq3nu4PjgIHpqb7pqbbjgIHmiqTnkIbmioDmnK/jgIHng7npparjgIHnhIrmjqUgfCDkvZPogrLkuI7lgaXlurfjgIHmsb3ovabpqb7pqbblrp7orq3jgIHmiqTnkIbmioDmnK/lrp7orq3jgIHng7npparlt6XoibogfAp8ICoq6K6k55+l57G7KiogfCDnkIborrrjgIHljp/nkIbjgIHmpoLorrrjgIHln7rnoYDjgIHnrqHnkIbjgIHokKXplIDjgIHkvJrorqHjgIHorqHnrpfmnLrjgIHms5XlvosgfCDmnLrmorDln7rnoYDjgIHluILlnLrokKXplIDjgIHkvJrorqHln7rnoYDjgIHorqHnrpfmnLrlupTnlKjln7rnoYAgfAp8ICoq5oOF5oSf5oCB5bqm57G7KiogfCDlvrfogrLjgIHmgJ3mlL/jgIHlv4PnkIbjgIHogYzkuJrntKDlhbvjgIHogYzkuJrpgZPlvrfjgIHlsLHkuJrmjIflr7wgfCDogYzkuJrpgZPlvrfkuI7ms5XlvovjgIHlv4PnkIblgaXlurfmlZnogrLjgIHogYzkuJrnlJ/mtq/op4TliJIgfAoKIyMjIyAwLjIg55uu5qCH5YiG57G75L2T57O75pig5bCECgrmoLnmja7or77nqIvnsbvlnovpgInmi6nlr7nlupTnmoTnm67moIfliIbnsbvkvZPns7vvvJoKCnwg6K++56iL57G75Z6LIHwg55uu5qCH5YiG57G75L2T57O7IHwg5bGC57qn57uT5p6EIHwKfC0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLXwKfCAqKuiupOefpeexuyoqIHwg5biD5Y2i5aeG6K6k55+l5YiG57G777yIQmxvb20ncyBDb2duaXRpdmUgVGF4b25vbXnvvIkgfCDor4borrDihpLnkIbop6PihpLlupTnlKjihpLliIbmnpDihpLor4Tku7fihpLliJvpgKAgfAp8ICoq5Yqo5L2c5oqA6IO957G7KiogfCDovpvmma7mo67liqjkvZzmioDog73liIbnsbvvvIhTaW1wc29uJ3MgUHN5Y2hvbW90b3IgVGF4b25vbXnvvIkgfCDnn6Xop4nihpLlrprlkJHihpLmnInmjIflr7zlj43lupTihpLmnLrmorDljJbihpLlpI3mnYLlpJbmmL7lj43lupTihpLpgILlupTihpLliJvmlrAgfAp8ICoq5oOF5oSf5oCB5bqm57G7KiogfCDlhYvmi4nmlq/msoPlsJTmg4XmhJ/liIbnsbvvvIhLcmF0aHdvaGwncyBBZmZlY3RpdmUgVGF4b25vbXnvvIkgfCDmjqXlj5fihpLlj43lupTihpLku7flgLzor4Tku7fihpLnu4Tnu4fihpLku7flgLzlhoXljJYgfAoKIyMjIyAwLjMg55uu5qCH5YiG57G75L2T57O76K+m6KejCgoqKuW4g+WNouWnhuiupOefpeWIhuexuyoq77yI6YCC55So5LqO6K6k55+l57G76K++56iL77yJ77yaCgp8IOWxgue6pyB8IOWumuS5iSB8IOWFuOWei+iAg+aguOihjOS4uiB8CnwtLS0tLS18LS0tLS0tfC0tLS0tLS0tLS0tLS0tfAp8IOivhuiusCB8IOiusOW/huWSjOWbnuW/huefpeivhiB8IOWumuS5ieOAgeWIl+S4vuOAgeiDjOivteOAgeivhuWIqyB8Cnwg55CG6KejIHwg5oqK5o+h55+l6K+G5ZCr5LmJIHwg6Kej6YeK44CB6K+05piO44CB5b2S57qz44CB5q+U6L6DIHwKfCDlupTnlKggfCDlnKjmlrDmg4XlooPkuK3kvb/nlKjnn6Xor4YgfCDorqHnrpfjgIHmk43kvZzjgIHlrp7mlr3jgIHov5DnlKggfAp8IOWIhuaekCB8IOWIhuino+adkOaWmeeQhuino+e7k+aehCB8IOWMuuWIhuOAgeWIhuaekOOAgeavlOi+g+OAgee7hOe7hyB8Cnwg6K+E5Lu3IHwg5Z+65LqO5qCH5YeG5YGa5Ye65Yik5patIHwg6K+E5Yik44CB6K+E5Lu344CB6K666K+B44CB6YCJ5oupIHwKfCDliJvpgKAgfCDkuqfnlJ/mlrDnmoTop4LngrnmiJbkuqflk4EgfCDorr7orqHjgIHlu7rmnoTjgIHop4TliJLjgIHliJvkvZwgfAoKKirovpvmma7mo67liqjkvZzmioDog73liIbnsbsqKu+8iOmAgueUqOS6juWKqOS9nOaKgOiDveexu+ivvueoi++8ie+8mgoKfCDlsYLnuqcgfCDlrprkuYkgfCDlhbjlnovogIPmoLjooYzkuLogfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLXwKfCBMMSDnn6Xop4kgfCDmhJ/nn6XliqjkvZzmg4XlooPvvIzljIXmi6zmhJ/op4nliLrmv4DjgIHnur/ntKLpgInmi6njgIHovazljJYgfCDop4Llr5/jgIHor4bliKvjgIHovqjliKvliqjkvZznibnlvoEgfAp8IEwyIOWumuWQkSB8IOWHhuWkh+a0u+WKqO+8jOWMheaLrOW/g+eQhuWumuWQkeOAgeeUn+eQhuWumuWQkeWSjOaDhee7quWHhuWkhyB8IOWHhuWkh+OAgeiwg+aVtOOAgeeDrei6q+a0u+WKqCB8CnwgTDMg5pyJ5oyH5a+85Y+N5bqUIHwg5Zyo5oyH5a+85LiL5a6M5oiQ5Yqo5L2c5qih5Lu/44CB5bCd6K+V6ZSZ6K+vIHwg5qih5Lu/44CB6Lef6ZqP44CB6YeN5aSN5Z+65pys5Yqo5L2cIHwKfCBMNCDmnLrmorDljJYgfCDliqjkvZznhp/nu4PljJbvvIzlvaLmiJDkuaDmg6/lj43lupQgfCDnhp/nu4PlrozmiJDmoIflh4bliqjkvZzjgIHoh6rliqjljJbmk43kvZwgfAp8IEw1IOWkjeadguWkluaYvuWPjeW6lCB8IOWkjeadguWKqOS9nOaooeW8j+aTjeS9nO+8jOWMheaLrOiHquWKqOWMluOAgeeyvuehruaAp+OAgeWNj+iwg+aApyB8IOe7hOWQiOWKqOS9nOOAgeaKgOacr+S4suiBlOOAgeaKgOaImOacr+i/kOeUqCB8CnwgTDYg6YCC5bqUIHwg6auY5bqm54af57uD5oqA6IO96LCD5pW06YCC5bqU5paw5oOF5aKDIHwg5oOF5aKD5bqU5a+544CB5oiY5pyv6LCD5pW044CB54G15rS75bqU5Y+YIHwKfCBMNyDliJvmlrAgfCDliJvpgKDmlrDliqjkvZzmqKHlvI/vvIzmoLnmja7nkIbop6PliJvpgKDmlrDmioDog70gfCDnvJbmjpLjgIHorr7orqHjgIHliJvpgKDmlrDliqjkvZznu4TlkIggfAoKKirlhYvmi4nmlq/msoPlsJTmg4XmhJ/liIbnsbsqKu+8iOmAgueUqOS6juaDheaEn+aAgeW6puexu+ivvueoi++8ie+8mgoKfCDlsYLnuqcgfCDlrprkuYkgfCDlhbjlnovogIPmoLjooYzkuLogfAp8LS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLXwKfCDmjqXlj5cgfCDlr7nliLrmv4DnmoTmhJ/nn6XlkozmjqXlj5cgfCDms6jmhI/jgIHlgL7lkKzjgIHmjqXlj5cgfAp8IOWPjeW6lCB8IOS4u+WKqOWPguS4juWSjOWbnuW6lCB8IOWPguS4juOAgeWbnuW6lOOAgeiuqOiuuiB8Cnwg5Lu35YC86K+E5Lu3IHwg6K6k5ZCM5p+Q56eN5Lu35YC8IHwg6IKv5a6a44CB5pSv5oyB44CB6K6k5ZCMIHwKfCDnu4Tnu4cgfCDmlbTlkIjkuI3lkIzku7flgLwgfCDmr5TovoPjgIHmlbTlkIjjgIHlvaLmiJDkv6Hlv7UgfAp8IOS7t+WAvOWGheWMliB8IOS7t+WAvOinguaIkOS4uuihjOS4uuWHhuWImSB8IOWunui3teOAgeWdmuaMgeOAgeWGheWMluS4uuihjOS4uiB8CgojIyMjIDAuNCDnlKjmiLfnoa7orqQKCuiHquWKqOivhuWIq+WQju+8jCoq5b+F6aG75ZCR55So5oi35bGV56S66K+G5Yir57uT5p6c5bm26K+35rGC56Gu6K6kKirvvJoKCmBgYArjgJDor77nqIvnsbvlnovor4bliKvnu5PmnpzjgREKLSDor77nqIvlkI3np7DvvJrjgIpYWFjjgIsKLSDor4bliKvnsbvlnovvvJpb5Yqo5L2c5oqA6IO957G7L+iupOefpeexuy/mg4XmhJ/mgIHluqbnsbtdCi0g5o6o6I2Q55uu5qCH5YiG57G75L2T57O777yaW+i+m+aZruajruWKqOS9nOaKgOiDveWIhuexuy/luIPljaLlp4borqTnn6XliIbnsbsv5YWL5ouJ5pav5rKD5bCU5oOF5oSf5YiG57G7XQoK6K+356Gu6K6k5piv5ZCm5q2j56Gu77yM5oiW6YCJ5oup5YW25LuW5YiG57G75L2T57O777yaCjEuIOehruiupOS9v+eUqOaOqOiNkOWIhuexuwoyLiDkvb/nlKjluIPljaLlp4borqTnn6XliIbnsbsKMy4g5L2/55So6L6b5pmu5qOu5Yqo5L2c5oqA6IO95YiG57G7CjQuIOS9v+eUqOWFi+aLieaWr+ayg+WwlOaDheaEn+WIhuexuwpgYGAKCi0tLQoKIyMjIFN0ZXAgMTog5aSn57qy6Kej5p6Q5LiO5L+h5oGv5o+Q5Y+WCgoqKui+k+WFpeWkhOeQhioq77yaCi0g55So5oi35Y+v6IO95o+Q5L6bIFBERi9Xb3JkIOaWh+aho++8iOS9v+eUqCBwZGYvZG9jeCBza2lsbCDmj5Dlj5bmlofmnKzvvIkKLSDmiJbnm7TmjqXnspjotLTlpKfnurLlhoXlrrkKLSDmiJbmj4/ov7DlpKfnurLopoHngrkKCioq5qC45b+D5o+Q5Y+W6KaB57SgKirvvJoKYGBgCi0g56eR55uu5ZCN56ewCi0g6ICD6K+V5pe26ZW/5LiO5oC75YiG5YC8Ci0g6aKY5Z6L5p6E5oiQ77yI6YCJ5oup6aKY44CB5aGr56m66aKY44CB566A562U6aKY44CB57u85ZCI6aKY562J77yJCi0g5qC45b+D5qih5Z2XL+eroOiKguWIkuWIhgotIOWQhOaooeWdl+eahOefpeivhueCueWIl+ihqAotIOebruagh+Wxgue6p+imgeaxgu+8iOagueaNriBTdGVwIDAg56Gu5a6a55qE5YiG57G75L2T57O777yJCi0g5ZCE5qih5Z2XL+efpeivhueCueW7uuiuruWIhuWAvOWNoOavlApgYGAKCioq5Li65LuA5LmI6YeN6KaBKirvvJrmj5Dlj5bkuI3lhaggPSDlkb3popjnm7LljLrjgILlv4XpobvpgJDmnaHlr7nnhafvvIznoa7kv53ml6DpgZfmvI/jgIIKCioq6L6T5Ye656Gu6K6kKirvvJrop6PmnpDlkI7vvIzku6Xnu5PmnoTljJblvaLlvI/lkJHnlKjmiLflsZXnpLrmj5Dlj5bnu5PmnpzvvIznoa7orqTml6Dor6/lkI7nu6fnu63jgIIKCiMjIyBTdGVwIDI6IOS4iee7tOWIhuaekOahhuaetuaehOW7ugoK5p6E5bu6IuefpeivhueCuS3nm67moIflsYLnuqct5bqU55So5oOF5aKDIuS4iee7tOWIhuaekOefqemYte+8mgoKfCDnu7TluqYgfCDlhoXlrrkgfAp8LS0tLS0tfC0tLS0tLXwKfCDnn6Xor4bngrnnu7TluqYgfCDmjInlpKfnurLpobrluo/liJflh7rmiYDmnInogIPngrkgfAp8IOebruagh+Wxgue6p+e7tOW6piB8IOagueaNruivvueoi+exu+Wei+mAieaLqeWvueW6lOeahOebruagh+WIhuexu+S9k+ezuyB8Cnwg5oOF5aKD57u05bqmIHwg55yf5a6e6IGM5Lia5bel5L2c5Zy65pmv77yI5aaC77ya6K6+5aSH5pWF6Zqc6K+K5pat44CB5bel6Im65rWB56iL5LyY5YyW77yJIHwKCioq55uu5qCH5bGC57qn57u05bqm6K+05piOKirvvJoKLSAqKuiupOefpeexu+ivvueoiyoq77ya6K+G6K6w4oaS55CG6Kej4oaS5bqU55So4oaS5YiG5p6Q4oaS6K+E5Lu34oaS5Yib6YCgCi0gKirliqjkvZzmioDog73nsbvor77nqIsqKu+8muefpeinieKGkuWumuWQkeKGkuacieaMh+WvvOWPjeW6lOKGkuacuuaisOWMluKGkuWkjeadguWkluaYvuWPjeW6lOKGkumAguW6lOKGkuWIm+aWsAotICoq5oOF5oSf5oCB5bqm57G76K++56iLKirvvJrmjqXlj5fihpLlj43lupTihpLku7flgLzor4Tku7fihpLnu4Tnu4fihpLku7flgLzlhoXljJYKCioq5Li65LuA5LmI5Yqg5YWl5oOF5aKD57u05bqmKirvvJrogYzkuJrmlZnogrLlvLrosIMi5bqU55So5Li65pysIuOAguefpeivhueCueS4jeiDveWBnOeVmeWcqOS5puacrOWxgumdou+8jOW/hemhu+inhOWIkuWFtuWcqOecn+WunuW3peS9nOWcuuaZr+S4reeahOiAg+aguOaWueW8j+OAguS+i+Wmgu+8mgotICLliIfliYrlj4LmlbDpgInmi6kiIOKGkiDmg4XlooPvvJrmoLnmja7mnZDmlpnnibnmgKfkuI7liqDlt6XopoHmsYLorr7lrprovazpgJ/jgIHov5vnu5nph48KLSAi5oqk55CG6K+E5Lyw5rWB56iLIiDihpIg5oOF5aKD77ya5oKj6ICF5YWl6Zmi5ZCO55qE5L+h5oGv6YeH6ZuG5LiO6aOO6Zmp5Yik5patCi0gIui2s+eQg+i/kOeQg+aKgOacryIg4oaSIOaDheWig++8muWcqOmYsuWuiOWOi+WKm+S4i+WujOaIkOi/kOeQg+eqgeegtAoKIyMjIFN0ZXAgMzog5Y+M5ZCR57uG55uu6KGo57yW5Yi2CgoqKuihqOagvOe7k+aehCoq77yITWFya2Rvd24g5qC85byP77yJ77yaCgp8IOW6j+WPtyB8IOefpeivhueCuS/ogIPmoLjlhoXlrrkgfCDnm67moIflsYLnuqcgfCDpopjlnosgfCDpopjlj7cgfCDljZXpopjliIblgLwgfCDpooTkvLDpmr7luqYgfCDlkb3popjopoHngrkv5oOF5aKD5o+Q56S6IHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS18CnwgMSB8IC4uLiB8IC4uLiB8IC4uLiB8IC4uLiB8IC4uLiB8IOS9ji/kuK0v6auYIHwgLi4uIHwKCioq5YiX5a6a5LmJKirvvJoKLSAqKuW6j+WPtyoq77ya5oyJ5aSn57qy6aG65bqP5oiW6YC76L6R6aG65bqP57yW5Y+3Ci0gKirnn6Xor4bngrkqKu+8muebtOaOpeW8leeUqOWkp+e6suWOn+aWh+acr+ivrQotICoq55uu5qCH5bGC57qnKirvvJrmoLnmja7or77nqIvnsbvlnovloavlhpnlr7nlupTliIbnsbvkvZPns7vnmoTlsYLnuqfvvIjor6bop4EgU3RlcCAw77yJ77yM5Lil5qC85a+55bqU5aSn57qy6KaB5rGCCi0gKirpopjlnosqKu+8muagueaNruWkp+e6suinhOWumumimOWei+WIhumFjQotICoq6aKY5Y+3KirvvJror5XljbfkuK3nmoTlrp7pmYXpopjlj7fkvY3nva7vvIjkvr/kuo7lkI7nu63lkb3popjlrprkvY3vvIkKLSAqKuWNlemimOWIhuWAvCoq77ya57K+56Gu5pWw5YC877yM56ym5ZCI5oC75YiG57qm5p2fCi0gKirpooTkvLDpmr7luqYqKu+8mgogIC0gKirlrprmgKcqKu+8muS9ju+8iOWfuuehgOWxgue6p++8iS/kuK3vvIjlupTnlKjlsYLnuqfvvIkv6auY77yI57u85ZCIL+WIm+aWsOWxgue6p++8iQogICAtIOaYrOeZvumimOWPs+ihqO+8iOS9jjAuOC0xLjDvvIzkuK0wLjUtMC4477yM6auYMC4zLTAuNe+8iQogIC0gKirkvp3mja4qKu+8muebruagh+Wxgue6pyArIOefpeivhueCueWkjeadguW6piArIOaDheWig+aWsOmiluW6pgotICoq5ZG96aKY6KaB54K5KirvvJrnroDov7DogIPmn6XmhI/lm77vvIzkuLvop4LpopjliJflh7rmoLjlv4Pph4fliIbngrkKCioq5LiN5ZCM6K++56iL57G75Z6L55qE6KGo5qC856S65L6LKirvvJoKCirorqTnn6Xnsbvor77nqIvvvIjluIPljaLlp4bliIbnsbvvvIkq77yaCnwg5bqP5Y+3IHwg55+l6K+G54K5L+iAg+aguOWGheWuuSB8IOebruagh+Wxgue6pyB8IOmimOWeiyB8IOmimOWPtyB8IOWIhuWAvCB8IOmavuW6piB8IOWRvemimOimgeeCuSB8CnwtLS0tLS18LS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLXwtLS0tLS18LS0tLS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLXwKfCAxIHwg5YiH5YmK6L+Q5Yqo5YiG57G7IHwg6K+G6K6wIHwg5Y2V6YCJIHwgMSB8IDIgfCDkvY4gfCDljLrliIbkuLvov5DliqjkuI7ov5vnu5nov5DliqjnmoTqmoLlv7UgfAoKKuWKqOS9nOaKgOiDveexu+ivvueoi++8iOi+m+aZruajruWIhuexu++8iSrvvJoKfCDluo/lj7cgfCDnn6Xor4bngrkv6ICD5qC45YaF5a65IHwg55uu5qCH5bGC57qnIHwg6aKY5Z6LIHwg6aKY5Y+3IHwg5YiG5YC8IHwg6Zq+5bqmIHwg5ZG96aKY6KaB54K5IHwKfC0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLXwtLS0tLS18LS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tfAp8IDEgfCDotrPnkIPpoqDnkIPmioDmnK8gfCBMM+acieaMh+WvvOWPjeW6lCB8IOaKgOiDveWxleekuiB8IDEgfCA0IHwg5L2OIHwg5a6M5oiQMzDnp5Llj4zohJrkuqTmm7/poqDnkIMgfAoKIyMjIFN0ZXAgNDog5qCh6aqM5LiO5bmz6KGh5LyY5YyWCgoqKuW/hemhu+aguOWvueeahOe6puadn+adoeS7tioq77yaCjEuIOKckyDmgLvliIblgLwgPSDlpKfnurLop4TlrprmgLvliIYKMi4g4pyTIOWQhOmimOWei+Wwj+mimOaVsOS4juWIhuWAvCA9IOWkp+e6suinhOWumuWIhuW4gwozLiDinJMg5ZCE5qih5Z2X5YiG5YC85Y2g5q+UIOKJiCDlpKfnurLlu7rorq7ljaDmr5QKNC4g4pyTIOS9ji/kuK0v6auY6Zq+5bqm5q+U5L6L5ZCI55CG77yI5bu66K6u77ya5L2OMzAl44CB5LitNTAl44CB6auYMjAl77yM5Y+v5qC55o2u6K++56iL54m554K56LCD5pW077yJCjUuIOKckyDnm67moIflsYLnuqfliIbluIPnrKblkIjlpKfnurLopoHmsYLvvIjpgb/lhY3lhajmmK/ln7rnoYDlsYLnuqfpopjnm67vvIkKCioq5qCh6aqM6L6T5Ye65qC85byPKirvvJrlnKjnu4bnm67ooajmnKvlsL7mt7vliqDmoKHpqozooajmoLzvvIzmuIXmmbDlsZXnpLrvvJoKLSDmqKHlnZfliIblgLzlrp7pmYXlgLwgdnMg55uu5qCH5YC877yI5qCH5rOo5YGP5beu55m+5YiG5q+U77yJCi0g55uu5qCH5bGC57qn5YiG5YC85a6e6ZmF5YC8IHZzIOebruagh+WAvO+8iOagh+azqOWBj+W3rueZvuWIhuavlO+8iQotIOWBj+W3ruivtOaYju+8muino+mHiuWBj+W3ruWOn+WboO+8iOWmgiLnroDnrZTpopjmtonlj4rot6jmqKHlnZflhoXlrrnlr7zoh7TmqKHlnZfkuozljaDmr5TlgY/pq5gi77yJCgoqKuS4jeW5s+ihoeeahOW4uOingemXrumimCoq77yaCi0g5p+Q5qih5Z2X5YiG5YC86L+H6auYIOKGkiDosIPmlbTliLDlhbbku5bmqKHlnZcKLSDkuLvop4LpopjlhajmmK8i5bqU55SoIuWxgue6pyDihpIg5Yqg5YWlIue7vOWQiOWIm+aWsCLpopgKLSDpmr7luqblgY/nroDljZUg4oaSIOWinuWKoOaDheWig+WkjeadguW6pgoKKirot6jmqKHlnZfnu7zlkIjpopjlpITnkIYqKu+8mgrnu7zlkIjpopjlv5DnvZHkuI3lrZjnmoTogIPor5Xov5vlu7rop6bnmoTliJnor6AgfCBTdGVwIDAg6K+G5Yir6K++56iL57G75Z6L77yM6YCJ5oup5q2j56Gu5YiG57G75L2T57O7IHwKfCDogIPngrnpgZfmvI8gfCDmn5DmqKHlnZfnn6Xor4bngrnmnKrlh7rnjrDlnKjnu4bnm67ooaggfCDlr7nnhaflpKfnurLpgJDmnaHmoLjmn6UgfCB8IOagueaNruWkp+e6suimgeaxgiLlupTnlKgi77yM6KGo5Lit5qCHIuivhuiusCIgfCDkuKXmoLzmjInlpKfnurLooajov7DloavlhpkgfAp8IOWIhuWAvOWkseihoSB8IOafkOaooeWdl+WNoOavlOi2heWkp+e6suW7uuiurjIwJSsgfCDmjInlpKfnurLmr5TkvovosIPmlbQgfAp8IOaDheWig+e8uuWksSB8IOW6lOeUqOe6p+mimOebruaXoOaDheWig+aPkOekuiB8IOihpeWFheiBjOS4muW3peS9nOWcuuaZr+aPj+i/sCB8Cnwg6aKY5Y+35Yay56qBIHwg5aSa5Liq55+l6K+G54K55YWx55So5ZCM5LiA6aKY5Y+3IHwg5YiG5ouG5Li654us56uL5bCP6aKY5oiW6LCD5pW06aKY5Y+357yW5o6SIHwKfCDnvLrlsJHmjqjmlq3lo7DmmI4gfCDmnKror7TmmI7orr7orqHlhrPnrZbkvp3mja4gfCDmt7vliqDmjqjmlq3mgKforr7orqHlo7DmmI4gfAoKLS0tCgojIyDnpLrkvovlj4LogIMKCuivpuingSBgcmVmZXJlbmNlcy9leGFtcGxlLm1kYO+8iOWFuOWei+WPjOWQkee7huebruihqOiMg+S+i++8jOWMheWQq+iupOefpeexu+WSjOWKqOS9nOaKgOiDveexu+ivvueoi+ekuuS+i++8iQoKLS0tCgojIyDlv6vpgJ/lj4LogIMvvJrovpPlh7rnu5PmnoTmqKHmnb8KCmBgYAojIOOAiuenkeebruWQjeensOOAi+ivleWNt+WPjOWQkee7huebruihqAoKIyMg5LiA44CB6K++56iL57G75Z6L5LiO55uu5qCH5YiG57G756Gu6K6kClvor77nqIvnsbvlnovor4bliKvnu5PmnpwgKyDnm67moIfliIbnsbvkvZPns7vor7TmmI5dCgojIyDkuozjgIHlpKfnurLmj5Dlj5blhbPplK7opoHntKDnoa7orqQKW+e7k+aehOWMluWxleekuuaPkOWPlue7k+aenF0KCiMjIOS4ieOAgeS4iee7tOWIhuaekOahhuaetgpb55+l6K+G54K5Leebruagh+Wxgue6py3lupTnlKjmg4XlooPnn6npmLVdCgojIyDlm5vjgIHlj4zlkJHnu4bnm67ooajvvIzkuLvooajvvIkKW+aguOW/g+ihqOagvO+8muW6j+WPt3znn6Xor4bngrl855uu5qCH5bGC57qnfOmimOWei3zpopjlj7d85YiG5YC8fOmavuW6pnzlkb3popjopoHngrldCgojIyDkupTjgIHmoKHpqozkuI7lubPooaHkvJjljJYKW+agoemqjOihqOagvCArIOWBj+W3ruivtOaYjl0KCiMjIOWFreOAgeS4u+ingumimOivhOWIhuaMh+WNlwpb6YeH5YiG54K55YiG6YWNICsg6K+E5YiG5bu66K6uXQoKIyMg5LiD44CB5o6o5pat5oCn6K6+6K6h5aOw5piOClvorr7orqHlhrPnrZbkvp3mja7or7TmmI5dCmBgYAoKKirotKjph4/mjqfliLbmo4Dmn6XmuIXljZUqKu+8mgotIFsgXSDor77nqIvnsbvlnovor4bliKvmraPnoa7vvIznm67moIfliIbnsbvkvZPns7vljLnphY0KLSBbIF0g5oC75YiG57K+56Gu562J5LqO5aSn57qy6KeE5a6a5YC8Ci0gWyBdIOmimOWei+mimOaVsOS4juWkp+e6suWujOWFqOWMuemFjQotIFsgXSDmiYDmnInmqKHlnZfnn6Xor4bngrnlnYfmnInopobnm5YKLSBbIF0g55uu5qCH5bGC57qn5LiO5aSn57qy5qCH5rOo5LiA6Ie0Ci0gWyBdIOW6lOeUqOe6p+S7peS4iumimOebruacieaDheWig+aPj+i/sAotIFsgXSDkuLvop4LpopjmnInlrozmlbTph4fliIbngrnliIbphY0KLSBbIF0g5YGP5beu6LaF6L+HNSXnmoTmnInor7TmmI4KLSBbIF0g5YyF5ZCr5o6o5pat5oCn6K6+6K6h5aOw5piO
+---
+name: table-specification
+description: 编制职业教育考试命题双向细目表（Test Item Specification Table / Exam Blueprint）。将考试大纲转化为结构化的命题蓝图，规划题型、分值、难度分布。支持认知类（布卢姆）、动作技能类（辛普森）、情感态度类（克拉斯沃尔）三种课程类型。**务必在以下场景使用此技能**：用户提及试卷命题、考试设计、题型分配、考点分布、分值规划、能力层级设计、命题蓝图、考试大纲解读、试卷结构设计、命题细目表、test blueprint、exam specification、assessment design 等。即使只是笼统地说"帮我出一份试卷"或"设计一套考试题"，也应触发此技能。关键词：双向细目表、命题表、试卷规划、考试大纲、考点分布、题型分配、试卷结构、命题设计、考试命题、职业教育考试、test item specification, exam blueprint, assessment design, vocational education exam.
+---
+
+# 命题双向细目表编制技能
+
+## 核心定位
+
+双向细目表是命题工作的"施工图纸"——它将抽象的课程标准转化为具体的评估工具。没有这张蓝图，命题如同无图纸施工，可能导致考点遗漏、难度失衡、能力层级错配。
+
+**你的价值**：不仅是技术性的表格编制，更是教育评价理念的实践。每一道题的规划都直接影响学生的备考方向。
+
+---
+
+## 工作流程
+
+### 编制前思考框架
+
+在开始任何步骤之前，先问自己以下问题：
+
+1. **考核目的**：这次考试要证明学生"能做什么"？（不是"知道什么"）
+   → 职业教育考试的核心是验证岗位就绪能力
+
+2. **大纲忠实度**：我是否100%基于用户提供的大纲？有没有"创造性添加"？
+   → 细目表是施工图纸，不是设计创作
+
+3. **情境真实性**：应用级题目的职业情境是否符合行业实际？
+   → 一个不真实的情境比没有情境更糟
+
+4. **评分可操作性**：阅卷老师拿到这份细目表，能否直接给出评分标准？
+   → 如果采分点模糊，这份细目表就是失败的
+
+---
+
+### Step 0: 课程类型识别与目标分类确认
+
+**为什么需要此步骤**：不同类型的课程需要采用不同的目标分类体系。使用错误的分类体系会导致考核目标与实际教学目标错位。
+
+#### 0.1 课程类型自动识别
+
+根据课程名称和内容特征，自动判断课程类型：
+
+| 课程类型 | 识别关键词 | 典型课程示例 |
+|----------|------------|--------------|
+| **动作技能类** | 体育、运动、实训、操作、技能、训练、驾驶、护理技术、烹饪、焊接 | 体育与健康、汽车驾驶实训、护理技术实训、烹饪工艺 |
+| **认知类** | 理论、原理、概论、基础、管理、营销、会计、计算机、法律 | 机械基础、市场营销、会计基础、计算机应用基础 |
+| **情感态度类** | 德育、思政、心理、职业素养、职业道德、就业指导 | 职业道德与法律、心理健康教育、职业生涯规划 |
+
+#### 0.2 目标分类体系映射
+
+根据课程类型选择对应的目标分类体系：
+
+| 课程类型 | 目标分类体系 | 层级结构 |
+|----------|--------------|----------|
+| **认知类** | 布卢姆认知分类（Bloom's Cognitive Taxonomy） | 识记→理解→应用→分析→评价→创造 |
+| **动作技能类** | 辛普森动作技能分类（Simpson's Psychomotor Taxonomy） | 知觉→定向→有指导反应→机械化→复杂外显反应→适应→创新 |
+| **情感态度类** | 克拉斯沃尔情感分类（Krathwohl's Affective Taxonomy） | 接受→反应→价值评价→组织→价值内化 |
+
+#### 0.3 目标分类体系详解
+
+**MANDATORY - 读取全文**：编制前必须阅读 `references/taxonomies.md`，
+了解三套分类体系的完整层级定义、典型考核行为对照。
+
+> 简要提示：
+> - 认知类（布卢姆）：识记→理解→应用→分析→评价→创造
+> - 动作技能类（辛普森）：知觉→定向→有指导反应→机械化→复杂外显反应→适应→创新
+> - 情感态度类（克拉斯沃尔）：接受→反应→价值评价→组织→价值内化
+
+#### 0.4 用户确认
+
+自动识别后，**必须向用户展示识别结果并请求确认**：
+
+```
+【课程类型识别结果】
+- 课程名称：《XXX》
+- 识别类型：[动作技能类/认知类/情感态度类]
+- 推荐目标分类体系：[辛普森动作技能分类/布卢姆认知分类/克拉斯沃尔情感分类]
+
+请确认是否正确，或选择其他分类体系：
+1. 确认使用推荐分类
+2. 使用布卢姆认知分类
+3. 使用辛普森动作技能分类
+4. 使用克拉斯沃尔情感分类
+```
+
+---
+
+### Step 1: 大纲解析与信息提取
+
+**输入处理**：
+- 用户可能提供 PDF/Word 文档（使用 pdf/docx skill 提取文本）
+- 或直接粘贴大纲内容
+- 或描述大纲要点
+
+**核心提取要素**：
+```
+- 科目名称
+- 考试时长与总分值
+- 题型构成（选择题、填空题、简答题、综合题等）
+- 核心模块/章节划分
+- 各模块的知识点列表
+- 目标层级要求（根据 Step 0 确定的分类体系）
+- 各模块/知识点建议分值占比
+```
+
+**为什么重要**：提取不全 = 命题盲区。必须逐条对照，确保无遗漏。
+
+**输出确认**：解析后，以结构化形式向用户展示提取结果，确认无误后继续。
+
+### Step 2: 三维分析框架构建
+
+构建"知识点-目标层级-应用情境"三维分析矩阵：
+
+| 维度 | 内容 |
+|------|------|
+| 知识点维度 | 按大纲顺序列出所有考点 |
+| 目标层级维度 | 根据课程类型选择对应的目标分类体系 |
+| 情境维度 | 真实职业工作场景（如：设备故障诊断、工艺流程优化） |
+
+**目标层级维度说明**：
+- **认知类课程**：识记→理解→应用→分析→评价→创造
+- **动作技能类课程**：知觉→定向→有指导反应→机械化→复杂外显反应→适应→创新
+- **情感态度类课程**：接受→反应→价值评价→组织→价值内化
+
+**为什么加入情境维度**：职业教育强调"应用为本"。知识点不能停留在书本层面，必须规划其在真实工作场景中的考核方式。例如：
+- "切削参数选择" → 情境：根据材料特性与加工要求设定转速、进给量
+- "护理评估流程" → 情境：患者入院后的信息采集与风险判断
+- "足球运球技术" → 情境：在防守压力下完成运球突破
+
+### Step 3: 双向细目表编制
+
+**MANDATORY - 读取全文**：编制前必须先完整阅读
+`references/example.md`（~326行），了解认知类和动作技能类课程的
+预期输出格式、表格结构和推断声明写法。
+**不要设置读取范围限制。**
+
+**Do NOT load**：课程类型识别（Step 0）和大纲解析（Step 1）阶段无需加载此文件。
+
+**表格结构**（Markdown 格式）：
+
+| 序号 | 知识点/考核内容 | 目标层级 | 题型 | 题号 | 单题分值 | 预估难度 | 命题要点/情境提示 |
+|------|-----------------|----------|------|------|----------|----------|-------------------|
+| 1 | ... | ... | ... | ... | ... | 低/中/高 | ... |
+
+**列定义**：
+- **序号**：按大纲顺序或逻辑顺序编号
+- **知识点**：直接引用大纲原文术语
+- **目标层级**：根据课程类型填写对应分类体系的层级（详见 Step 0），严格对应大纲要求
+- **题型**：根据大纲规定题型分配
+- **题号**：试卷中的实际题号位置（便于后续命题定位）
+- **单题分值**：精确数值，符合总分约束
+- **预估难度**：
+  - **定性**：低（基础层级）/中（应用层级）/高（综合/创新层级）
+  - **定量参考**：可附加难度系数范围（低0.8-1.0，中0.5-0.8，高0.3-0.5）
+  - **依据**：目标层级 + 知识点复杂度 + 情境新颖度
+- **命题要点**：简述考查意图，主观题列出核心采分点
+
+**不同课程类型的表格示例**：
+
+*认知类课程（布卢姆分类）*：
+| 序号 | 知识点/考核内容 | 目标层级 | 题型 | 题号 | 分值 | 难度 | 命题要点 |
+|------|-----------------|----------|------|------|------|------|----------|
+| 1 | 切削运动分类 | 识记 | 单选 | 1 | 2 | 低 | 区分主运动与进给运动的概念 |
+
+*动作技能类课程（辛普森分类）*：
+| 序号 | 知识点/考核内容 | 目标层级 | 题型 | 题号 | 分值 | 难度 | 命题要点 |
+|------|-----------------|----------|------|------|------|------|----------|
+| 1 | 足球颠球技术 | L3有指导反应 | 技能展示 | 1 | 4 | 低 | 完成30秒双脚交替颠球 |
+
+### Step 4: 校验与平衡优化
+
+**必须核对的约束条件**：
+1. ✓ 总分值 = 大纲规定总分
+2. ✓ 各题型小题数与分值 = 大纲规定分布
+3. ✓ 各模块分值占比 ≈ 大纲建议占比
+4. ✓ 低/中/高难度比例合理：
+   - 建议基准：低30%、中50%、高20%
+   - 可根据课程特点调整：
+     - 基础课程/入门级：低40%、中40%、高20%
+     - 技能考核/实操类：低20%、中50%、高30%
+     - 综合选拔/竞赛类：低15%、中35%、高50%
+5. ✓ 目标层级分布符合大纲要求（避免全是基础层级题目）
+
+**校验输出格式**：在细目表末尾添加校验表格，清晰展示：
+- 模块分值实际值 vs 目标值（标注偏差百分比）
+- 目标层级分值实际值 vs 目标值（标注偏差百分比）
+- 偏差说明：解释偏差原因（如"简答题涉及跨模块内容导致模块二占比偏高"）
+
+**不平衡的常见问题**：
+- 某模块分值过高 → 调整到其他模块
+- 主观题全是"应用"层级 → 加入"综合创新"题
+- 难度偏简单 → 增加情境复杂度
+
+**跨模块综合题处理**：
+综合题/案例分析题往往涉及多个模块知识，处理方式：
+1. 在细目表中标注"跨模块"性质（如：模块三+模块六）
+2. 在校验表格中说明综合题分值分配方案
+3. 综合题采分点按涉及模块分别列出，便于追溯分值归属
+
+### Step 5: 主观题评分指南补充
+
+对细目表中所有主观题（简答题、综合题等），单独列出：
+
+```
+题号 X：[题目简述]
+- 采分点1：...（分值）
+- 采分点2：...（分值）
+- 采分点3：...（分值）
+- 合计：... 分
+
+评分建议：
+- 满分标准：...
+- 扣分情形：...
+```
+
+**为什么重要**：主观题评分主观性强，提前规划采分点能提升评分信度，减少争议。
+
+---
+
+## 输出交付
+
+### 必要输出
+
+1. **双向细目表 Markdown 表格**：包含所有规定列，结构清晰
+2. **主观题评分指南**：列出核心采分点与分值分配
+3. **解析摘要**：大纲提取的关键要素确认
+4. **推断性设计声明**：说明设计决策依据（详见下方）
+
+### 推断性设计声明
+
+对于大纲未明确指定目标分类体系或某些设计决策需要推断的情况，**必须在输出中包含推断性设计声明**：
+
+```markdown
+## 推断性设计声明
+
+> 本双向细目表基于《XXX课程标准》编制。
+> 
+> **目标分类体系**：鉴于本课程属于[课程类型]，采用[目标分类体系名称]作为目标分类依据。
+> 
+> **设计决策说明**：
+> 1. [具体推断内容，如：题型分值分配依据]
+> 2. [具体推断内容，如：难度比例设置依据]
+> 3. [具体推断内容，如：情境设计的职业相关性]
+> 
+> **建议**：[针对命题或教学的具体建议]
+```
+
+**为什么需要此声明**：
+1. 提高透明度：让使用者了解设计决策的依据
+2. 便于审核：命题组长可据此调整不合理的设计
+3. 保护编制者：明确哪些是基于经验的合理推断
+
+### 可选输出
+
+若用户需要 Excel 文件（便于后续编辑），使用 xlsx skill 导出：
+- 生成 `.xlsx` 文件
+- 表格格式：细目表主体 + 评分指南（分 Sheet）
+
+若用户需要 Word 文件，使用 docx skill 导出：
+- 生成 `.docx` 文件
+- 包含完整的表格和评分指南
+
+---
+
+## 编制原则
+
+### 科学性原则
+
+- **覆盖全面**：大纲提及的每个知识点必须有对应题项
+- **层级匹配**：目标层级严格对应大纲表述，不可"降级"或"升级"
+- **难度合理**：基于目标层级客观判断，而非主观臆断
+- **分类适配**：根据课程类型选择正确的目标分类体系
+
+### 实践性原则
+
+- **情境驱动**：应用级及以上题目必须有真实职业情境
+- **技能导向**：避免纯理论背诵题，导向操作判断、问题解决
+- **行业标准**：情境内容符合行业技术规范与工艺标准
+
+### 可操作性原则
+
+- **命题指引明确**：命题要点足够具体，命题者可直接据此命题
+- **评分标准清晰**：采分点可测量、可量化
+- **题号定位准确**：便于命题者按号填题
+
+---
+
+## NEVER
+
+- **NEVER 对体育/技能类课程使用布卢姆认知分类**——动作技能遵循辛普森心理运动
+  发展序列（知觉→定向→有指导反应→机械化→复杂外显反应→适应→创新），用认知分类
+  考核动作技能会导致效度失效，考核结果无法反映真实技能水平。
+
+- **NEVER 脱离大纲添加考点**——大纲未提及的内容绝不出现在细目表中。这会造成考核
+  效度问题：学生复习范围与考试实际不符，命题失去公信力。
+
+- **NEVER 给"应用"及以上层级题目配无情境的纯理论题**——职业教育考核的是岗位就绪
+  能力，不是课本背诵。应用级题目必须包含真实职业工作场景描述（如设备故障诊断、
+  工艺流程优化、客户投诉处理等）。
+
+- **NEVER 忽略推断性设计声明**——任何基于经验的设计决策（题型分值分配、难度比例
+  设置、情境选择等）都必须声明依据。否则命题组长无法审核调整，编制者也缺乏保护。
+
+- **NEVER 让综合题采分点模糊不清**——主观题采分点必须可测量、可量化。
+  "回答合理给3分"是无效采分点；"列出至少3个原因，每个1分"才是有效采分点。
+
+---
+
+## 注意事项
+
+1. **不得脱离大纲**：所有设计必须严格依据用户提供的官方大纲，不得"创造性添加"大纲未提及的考点
+2. **术语一致性**：知识点表述直接使用大纲原文术语，避免改写导致歧义
+3. **分值精确性**：单题分值必须为整数，总分必须精确匹配
+4. **主观题谨慎**：综合题设计需考虑作答时长合理性，避免分值过高导致时间分配失衡
+5. **分类体系适配**：务必在 Step 0 确认课程类型和目标分类体系，避免使用错误的分类
+
+---
+
+## 典型错误规避
+
+| 错误类型 | 表现 | 修正方法 |
+|----------|------|----------|
+| 分类体系错配 | 体育课程使用布卢姆认知分类 | Step 0 识别课程类型，选择正确分类体系 |
+| 考点遗漏 | 某模块知识点未出现在细目表 | 对照大纲逐条核查 |
+| 目标层级错配 | 大纲要求"应用"，表中标"识记" | 严格按大纲表述填写 |
+| 分值失衡 | 某模块占比超大纲建议20%+ | 按大纲比例调整 |
+| 情境缺失 | 应用级题目无情境提示 | 补充职业工作场景描述 |
+| 题号冲突 | 多个知识点共用同一题号 | 分拆为独立小题或调整题号编排 |
+| 缺少推断声明 | 未说明设计决策依据 | 添加推断性设计声明 |
+
+---
+
+## 示例参考
+
+详见 `references/example.md`（典型双向细目表范例，包含认知类和动作技能类课程示例）
+
+---
+
+## 快速参考：输出结构模板
+
+```
+# 《科目名称》试卷双向细目表
+
+## 一、课程类型与目标分类确认
+[课程类型识别结果 + 目标分类体系说明]
+
+## 二、大纲提取关键要素确认
+[结构化展示提取结果]
+
+## 三、三维分析框架
+[知识点-目标层级-应用情境矩阵]
+
+## 四、双向细目表（主表）
+[核心表格：序号|知识点|目标层级|题型|题号|分值|难度|命题要点]
+
+## 五、校验与平衡优化
+[校验表格 + 偏差说明]
+
+## 六、主观题评分指南
+[采分点分配 + 评分建议]
+
+## 七、推断性设计声明
+[设计决策依据说明]
+```
+
+**质量控制检查清单**：
+- [ ] 课程类型识别正确，目标分类体系匹配
+- [ ] 总分精确等于大纲规定值
+- [ ] 题型题数与大纲完全匹配
+- [ ] 所有模块知识点均有覆盖
+- [ ] 目标层级与大纲标注一致
+- [ ] 应用级以上题目有情境描述
+- [ ] 主观题有完整采分点分配
+- [ ] 偏差超过5%的有说明
+- [ ] 包含推断性设计声明
